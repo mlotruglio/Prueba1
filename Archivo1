@@ -12,3 +12,4 @@ int main() {
     printf("La suma vale %d\n",suma);
     return 0;
 }
+//Segunda version
